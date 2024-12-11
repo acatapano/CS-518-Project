@@ -1,3 +1,3 @@
-#CS-518: Final Project
+# CS-518: Final Project
 
-#AWS Notes App
+## AWS Notes App
